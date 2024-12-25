@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/latext-test/static/css/main.e6c13ad2.css",
+    "main.js": "/latext-test/static/js/main.f95adb6d.js",
+    "static/js/488.6f0c8086.chunk.js": "/latext-test/static/js/488.6f0c8086.chunk.js",
+    "index.html": "/latext-test/index.html",
+    "main.e6c13ad2.css.map": "/latext-test/static/css/main.e6c13ad2.css.map",
+    "main.f95adb6d.js.map": "/latext-test/static/js/main.f95adb6d.js.map",
+    "488.6f0c8086.chunk.js.map": "/latext-test/static/js/488.6f0c8086.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f95adb6d.js"
+  ]
+}
